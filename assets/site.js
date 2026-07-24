@@ -27,23 +27,23 @@ resourceButtons.forEach((button) => {
 });
 
 const searchableContent = [
-  { title: 'Chain Link System', type: 'Product', url: 'products.html#chain-link', keywords: 'chain link system applications product information colors gates fabric fittings galvanized' },
-  { title: 'Ornamental Steel', type: 'Product', url: 'products.html#ornamental-steel', keywords: 'ornamental steel family warranty drawings brochure specs powder coat panels' },
-  { title: 'Ornamental Aluminum', type: 'Product', url: 'products.html#ornamental-aluminum', keywords: 'ornamental aluminum corrosion resistant finish residential commercial' },
-  { title: 'Vinyl', type: 'Product', url: 'products.html#vinyl', keywords: 'vinyl privacy fence posts rails caps residential' },
-  { title: 'Wood', type: 'Product', url: 'products.html#wood', keywords: 'wood privacy picket rail residential installation' },
-  { title: 'Agricultural', type: 'Product', url: 'products.html#agricultural', keywords: 'agricultural cattle horse deer perimeter containment rural' },
-  { title: 'Temporary Fencing', type: 'Product', url: 'products.html#temporary-fencing', keywords: 'temporary fencing portable panels barriers windscreen jobsite event' },
-  { title: 'Access Control', type: 'Product', url: 'products.html#access-control', keywords: 'access control operators hardware gate integration commercial' },
-  { title: 'Custom Fabricated Gates', type: 'Fabrication', url: 'custom-gates.html', keywords: 'custom gates fabrication ornamental metalwork swing gate metal works quote' },
-  { title: 'Commercial Accounts', type: 'Company', url: 'commercial-accounts.html', keywords: 'commercial account application wholesale contractor business account net 30' },
-  { title: 'Fence-U Product Catalog', type: 'Resource', url: 'resources.html#catalogs', keywords: 'catalog products multi-system pdf' },
-  { title: 'Chain Link Specification Sheet', type: 'Resource', url: 'resources.html#specs', keywords: 'specification chain link pdf commercial' },
-  { title: 'Gate Assembly Drawing Package', type: 'Resource', url: 'resources.html#drawings', keywords: 'drawings gate assembly zip commercial gates' },
-  { title: 'Commercial Gate Solutions', type: 'Resource', url: 'resources.html#brochures', keywords: 'brochure access control commercial gates pdf' },
-  { title: 'Ornamental Steel Finish Warranty', type: 'Resource', url: 'resources.html#warranties', keywords: 'warranty ornamental steel finish coverage' },
-  { title: 'About Fence-U', type: 'Company', url: 'about.html', keywords: 'about wholesale contractor-first company' },
-  { title: 'Contact', type: 'Company', url: 'contact.html', keywords: 'contact quote pricing phone email sales' }
+  { title: 'Chain Link System', type: 'Product', url: '/products#chain-link', keywords: 'chain link system applications product information colors gates fabric fittings galvanized' },
+  { title: 'Ornamental Steel', type: 'Product', url: '/products#ornamental-steel', keywords: 'ornamental steel family warranty drawings brochure specs powder coat panels' },
+  { title: 'Ornamental Aluminum', type: 'Product', url: '/products#ornamental-aluminum', keywords: 'ornamental aluminum corrosion resistant finish residential commercial' },
+  { title: 'Vinyl', type: 'Product', url: '/products#vinyl', keywords: 'vinyl privacy fence posts rails caps residential' },
+  { title: 'Wood', type: 'Product', url: '/products#wood', keywords: 'wood privacy picket rail residential installation' },
+  { title: 'Agricultural', type: 'Product', url: '/products#agricultural', keywords: 'agricultural cattle horse deer perimeter containment rural' },
+  { title: 'Temporary Fencing', type: 'Product', url: '/products#temporary-fencing', keywords: 'temporary fencing portable panels barriers windscreen jobsite event' },
+  { title: 'Access Control', type: 'Product', url: '/products#access-control', keywords: 'access control operators hardware gate integration commercial' },
+  { title: 'Custom Fabricated Gates', type: 'Fabrication', url: '/custom-gates', keywords: 'custom gates fabrication ornamental metalwork swing gate metal works quote' },
+  { title: 'Commercial Accounts', type: 'Company', url: '/commercial-accounts', keywords: 'commercial account application wholesale contractor business account net 30' },
+  { title: 'Fence-U Product Catalog', type: 'Resource', url: '/resources#catalogs', keywords: 'catalog products multi-system pdf' },
+  { title: 'Chain Link Specification Sheet', type: 'Resource', url: '/resources#specs', keywords: 'specification chain link pdf commercial' },
+  { title: 'Gate Assembly Drawing Package', type: 'Resource', url: '/resources#drawings', keywords: 'drawings gate assembly zip commercial gates' },
+  { title: 'Commercial Gate Solutions', type: 'Resource', url: '/resources#brochures', keywords: 'brochure access control commercial gates pdf' },
+  { title: 'Ornamental Steel Finish Warranty', type: 'Resource', url: '/resources#warranties', keywords: 'warranty ornamental steel finish coverage' },
+  { title: 'About Fence-U', type: 'Company', url: '/about', keywords: 'about wholesale contractor-first company' },
+  { title: 'Contact', type: 'Company', url: '/contact', keywords: 'contact quote pricing phone email sales' }
 ];
 
 const searchInput = document.getElementById('searchInput');
