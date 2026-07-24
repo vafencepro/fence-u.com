@@ -1,0 +1,7 @@
+User-agent: *
+Content-Signal: search=yes, ai-train=no, use=reference
+Allow: /
+
+Disallow: /search.html
+
+Sitemap: https://fence-u.com/sitemap.xml
