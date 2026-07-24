@@ -27,10 +27,10 @@ resourceButtons.forEach((button) => {
 });
 
 const searchableContent = [
-  { title: 'Chain Link System', type: 'Product', url: '/products#chain-link', keywords: 'chain link system applications product information colors gates fabric fittings galvanized' },
+  { title: 'Chain Link System', type: 'Product', url: '/chain-link-fence', keywords: 'chain link system applications product information colors gates fabric fittings galvanized master halco wholesale gauge' },
   { title: 'Ornamental Steel', type: 'Product', url: '/products#ornamental-steel', keywords: 'ornamental steel family warranty drawings brochure specs powder coat panels' },
-  { title: 'Ornamental Aluminum', type: 'Product', url: '/products#ornamental-aluminum', keywords: 'ornamental aluminum corrosion resistant finish residential commercial' },
-  { title: 'Vinyl', type: 'Product', url: '/products#vinyl', keywords: 'vinyl privacy fence posts rails caps residential' },
+  { title: 'Ornamental Aluminum', type: 'Product', url: '/aluminum-fence', keywords: 'ornamental aluminum corrosion resistant finish residential commercial ultra aluminum pool code wholesale' },
+  { title: 'Vinyl', type: 'Product', url: '/vinyl-fence', keywords: 'vinyl privacy fence posts rails caps residential royal catalyst veranda linden barrette ranch rail wholesale' },
   { title: 'Wood', type: 'Product', url: '/products#wood', keywords: 'wood privacy picket rail residential installation' },
   { title: 'Agricultural', type: 'Product', url: '/products#agricultural', keywords: 'agricultural cattle horse deer perimeter containment rural' },
   { title: 'Temporary Fencing', type: 'Product', url: '/products#temporary-fencing', keywords: 'temporary fencing portable panels barriers windscreen jobsite event' },
