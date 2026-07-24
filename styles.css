@@ -171,7 +171,7 @@ h4 { font-size: .92rem; letter-spacing: .07em; }
   transform: translateY(8px);
   transition: .2s ease;
 }
-.mega-menu h4 { margin-bottom: 12px; font-size: .92rem; color: #dbe7f5; }
+.mega-menu .menu-heading { margin: 0 0 12px; font-family: 'Barlow Semi Condensed', sans-serif; font-weight: 800; text-transform: uppercase; line-height: 1.05; font-size: .92rem; letter-spacing: .07em; color: #dbe7f5; }
 .mega-menu a {
   display: block;
   color: var(--muted);
@@ -415,7 +415,7 @@ h4 { font-size: .92rem; letter-spacing: .07em; }
   grid-template-columns: 1.4fr repeat(3, .8fr);
   gap: 22px;
 }
-.site-footer h4 { margin-bottom: 12px; font-size: .82rem; text-transform: uppercase; letter-spacing: .1em; color: #c7d5e6; }
+.site-footer .footer-heading { margin: 0 0 12px; font-family: 'Barlow Semi Condensed', sans-serif; font-weight: 800; text-transform: uppercase; line-height: 1.05; font-size: .82rem; letter-spacing: .1em; color: #c7d5e6; }
 .site-footer a { display: block; color: var(--muted); padding: 6px 0; }
 .footer-nap { margin: 14px 0; font-size: .92rem; color: var(--muted); }
 .footer-nap a { color: #dfe8f2; }
